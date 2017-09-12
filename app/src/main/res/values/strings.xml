@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Bonus</string>
+    <string name="action_settings">Справка</string>
+    <string name="title_activity_main2">Инвентаризация</string>
+    <string name="main_activity">Инвентаризация</string>
+    <string name="cConnect">http://uniweb.factor.ua:8080/droidbonus/connjson?telefon=</string>
+    <string name="cConnecthist">http://uniweb.factor.ua:8080/droidbonus/connjsonhistory?telefon=</string>
+    <string name="cConnectpriz">http://uniweb.factor.ua:8080/droidbonus/connjsonpriz?telefon=</string>
+    <string name="cConnectServ">http://uniweb.factor.ua:8080/droidbonus/conn?</string>
+    <string name="cConnectSync">http://uniweb.factor.ua:8080/droidbonus/getos</string>
+    <string name="cauthor">Дрогожилов А.С. \nemail: a.drogozhilov@factor.ua</string>
+    <string name="cversion">...</string>
+    <string name="title_activity_main3">Все записи</string>
+    <string name="title_activity_main4">Сканер</string>
+    <string name="Scan" />
+    <string name="noclear">Предыдущая операция не завершена, \n сохраните!</string>
+    <string name="dialog_about_title">Внимание!</string>
+    <string name="dialog_about_message">Очистить всю базу?</string>
+    <string name="Vladelec">Введите ФИО</string>
+    <string name="namefile">Введите желаемое имя файла</string>
+
+
+</resources>
